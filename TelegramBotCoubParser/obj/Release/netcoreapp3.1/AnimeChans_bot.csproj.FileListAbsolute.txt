@@ -1,0 +1,16 @@
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/AnimeChans_bot
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/AnimeChans_bot.deps.json
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/AnimeChans_bot.runtimeconfig.json
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/AnimeChans_bot.runtimeconfig.dev.json
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/AnimeChans_bot.dll
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/AnimeChans_bot.pdb
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/bin/Release/netcoreapp3.1/Telegram.Bot.dll
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.csprojAssemblyReference.cache
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.AssemblyInfoInputs.cache
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.AssemblyInfo.cs
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.csproj.CoreCompileInputs.cache
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.csproj.CopyComplete
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.dll
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.pdb
+/home/user-name/RiderProjects/AnimeChans_bot/AnimeChans_bot/obj/Release/netcoreapp3.1/AnimeChans_bot.genruntimeconfig.cache
